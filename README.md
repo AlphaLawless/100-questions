@@ -1,4 +1,4 @@
-# 100 questões x linguagem de programação
+# 100 questões para x
 
 Que tal você aprender lógica e também sintaxe da sua linguagem de programação?
 
