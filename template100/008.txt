@@ -3,7 +3,7 @@
 relativos em outras medidas.
 Ex:
 Digite uma distância em metros: 185.72
-A distância de 85.7m corresponde a:
+A distância de 185.7m corresponde a:
 0.18572Km
 18.572Dam
 1.8572Hm
